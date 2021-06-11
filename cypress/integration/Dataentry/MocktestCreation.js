@@ -12,8 +12,8 @@ const Dataentry = require("../../fixtures/DatEntry.json");
 
 // Variables
 const institute = "Erudex QA Test  2 (ER-SCH0062)";
-const teachername = "eru.teacher1";
-const teacherpassword = "eru.teacher1";
+const teachername = "eru.teacher2";
+const teacherpassword = "eru.teacher2";
 const testname = "Mocktest using Cypress";
 const testtype = "Part Test";
 const grade = "Class 12";
